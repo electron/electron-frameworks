@@ -10,7 +10,7 @@ Electron. These assets are downloaded as part of Electron's
 - [Reactive Cocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 - [Squirrel](https://github.com/squirrel)
 
-For the full list, see the [releases page](https://github.com/electron/electron-frameworks/releases)
+For the full list, see the [releases page](https://github.com/electron/electron-frameworks/releases).
 
 ## Creating a new Release
 
