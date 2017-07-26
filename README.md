@@ -6,9 +6,9 @@ Electron. These assets are downloaded as part of Electron's
 
 - [DirectX SDK](https://msdn.microsoft.com/en-us/library/windows/desktop/ee663275(v=vs.85).aspx)
 - [MS Visual Studio C++ Runtime](https://msdn.microsoft.com/en-us/library/abx4dbyh.aspx)
-- [Mantle](https://github.com/Mantle)
+- [Mantle](https://github.com/Mantle/Mantle)
 - [Reactive Cocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
-- [Squirrel](https://github.com/squirrel)
+- [Squirrel for Mac](https://github.com/Squirrel/Squirrel.Mac/)
 
 For the full list, see the [releases page](https://github.com/electron/electron-frameworks/releases).
 
